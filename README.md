@@ -11,8 +11,7 @@
   All details about getting started with the project + details about specific phases of the project can be found on a series of articles on my website : https://joshetasrinivasan.com/distracted-driving-detector-intro/ 
 
 # Contact 
-
-  
+You can contact me at josheta.srinivasan@gmail.com in the case of any questions or suggestions. 
 
 # Acknowlegements 
-
+< list all reosurces referred > 
