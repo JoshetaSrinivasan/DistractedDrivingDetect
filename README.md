@@ -25,4 +25,4 @@
 You can contact me at josheta.srinivasan@gmail.com in the case of any questions or suggestions. 
 
 # Acknowlegements 
-< list all reosurces referred > 
+< list all resources referred > 
