@@ -5,7 +5,18 @@
   This is a neurofeedback system that detects Mind-Wandering during driving: it reads your brain electrical activity, detects if you're Mind-Wandering, and beeps if you do. 
   
 # Project Overview
-  <Project Phases>
+  Phase 1: Preparing the EEG headet - Hacking the Mindflex headset
+  
+  Phase 2: Data Collection Module
+  
+  Phase 3: Data Processing: Process data and train classifier
+  
+  Phase 4: Make the device: Software 
+  
+  Phase 5:  Make the device: Hardware 
+  
+  Phase 6: Real-Time testing 
+  
 
 # Getting started
   All details about getting started with the project + details about specific phases of the project can be found on a series of articles on my website : https://joshetasrinivasan.com/distracted-driving-detector-intro/ 
