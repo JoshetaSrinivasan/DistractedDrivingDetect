@@ -24,7 +24,7 @@
   1. MindWanderDataCollect.ino: Arduino code for Data Collection Module: reads breain data and prints onto serial 
   2. EEGData_mindWander.py: Python script to save Arduino Serial contents into CSV file 
   3. SampleData.csv: Sample csv file after data collection 
-  4. DataCollectionModule_circuit.pdf: Circuit details for Data Collection Module 
+  4. circuitElements.pdf: Circuit details for Data Collection Module 
 
 # Contact 
 You can contact me at josheta.srinivasan@gmail.com in the case of any questions or suggestions. 
