@@ -25,6 +25,8 @@
   2. EEGData_mindWander.py: Python script to save Arduino Serial contents into CSV file 
   3. SampleData.csv: Sample csv file after data collection 
   4. circuitElements.pdf: Circuit details for Data Collection Module 
+  5. EEG_NN_Classifier.ipynb: A jupyter notebook that trains a Neural Network to predict Mind Wandering
+  6. MindWanderRealTime.ino: Arduino code for the final product!
 
 # Contact 
 You can contact me at josheta.srinivasan@gmail.com in the case of any questions or suggestions. 
