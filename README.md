@@ -32,4 +32,4 @@
 You can contact me at josheta.srinivasan@gmail.com in the case of any questions or suggestions. 
 
 # Acknowlegements 
-All resources used is either detailed in the code or my website(https://joshetasrinivasan.com/distracted-driving-detector-intro/) where the walkthough for the project is detailed. 
+All resources used is either documeted in the code or my website(https://joshetasrinivasan.com/distracted-driving-detector-intro/) where the walkthough for the project is detailed. 
