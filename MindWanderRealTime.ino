@@ -256,25 +256,26 @@ void loop() {
   uint8_t posEvents = 0;       // count +ve events ('Mind Wandering') 
   uint8_t i = 0;               // innit iterator
   
-  while (posEvents<4)          // Until MindWandering detceted four consecutive times
+  while (posEvents<3)          // Until MindWandering detceted four consecutive times
   {
-      Matrix<1,24> input =  readInput();       // (*)   // Read input
-      Serial << "input: " << input << "\n";    // (*)   // Print input
+      Matrix<1,24> input =  readInput(); // (*)        // Read input
   
       // Feed-Forward 
       Matrix<1,7> h1 = L1(input);
       Matrix<1,6> h2 = L2(h1);
       Matrix<1,5> h3 = L3(h2);
       double output = L4(h3); 
-    
-      Serial.print(F("output: "));
-      Serial.println(output, 7);              // print 7 decimal digit output
   
      if (output > 0.5)              // If output > 0.5 (+ve output reading) 
         posEvents++ ;               // update posEvents
      
      else 
         posEvents = 0;              // re-start counting for positive events
+
+//    Uncomment following lines to see inputs and outputs (for debugging)
+//    Serial << "input: " << input << "\n";    
+//    Serial.print(F("output: "));
+//    Serial.println(output, 7);              
     
   }
 
