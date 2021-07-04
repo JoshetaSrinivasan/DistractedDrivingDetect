@@ -1,7 +1,7 @@
 # include "BasicLinearAlgebra.h"    // Library for matrix creation and manipulation
 using namespace BLA; 
-#include <Brain.h>                  // Library for Reading MindFlex data 
-# include <string.h>                // Library for standard string functions 
+#include "Brain.h"                  // Library for Reading MindFlex data 
+#include <string.h>                 // Library for standard string functions 
 
 // VARIABLES FOR BUZZER //
 #define buzzerPin 10                            // Connected Arduino Pin
@@ -279,6 +279,6 @@ void loop() {
     
   }
 
-    // posEvens = 4
+    // posEvens = 3
     tone(buzzerPin, buzzFreq, buzzDur); // Beeeeeeep!
 }
