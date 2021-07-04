@@ -27,7 +27,7 @@
   4. circuitElements.pdf: Circuit details for Data Collection Module 
   5. EEG_NN_Classifier.ipynb: A jupyter notebook that trains a Neural Network to predict Mind Wandering
   6. MindWanderRealTime.ino: Arduino code for the final product!
-  7. hardwareLayoutMindWander.pdf: Hardware layour for the final product! 
+  7. hardwareLayoutMindWander.pdf: Hardware layout for the final product! 
 
 # Contact 
 You can contact me at josheta.srinivasan@gmail.com in the case of any questions or suggestions. 
